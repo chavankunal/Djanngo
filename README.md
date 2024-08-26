@@ -1,25 +1,29 @@
 # PolyVerif AV Validation Suite
 
-The **Poly-Verification and Validation Suite** is designed to generate test cases and validate the autonomous stack. By integrating Python and the Scenic scenario description language with AutowareAuto, it facilitates the creation of random scenarios for simulation. Given the use of OSSDC Simulator and AutowareAuto, a high-end computer with a capable graphics card is essential for optimal performance.
+Welcome to the **PolyVerif AV Validation Suite**! This suite is designed for generating test cases and validating the autonomous stack. It integrates Python and Scenic with AutowareAuto, enabling the creation of random scenarios for simulation. Given the reliance on OSSDC Simulator and AutowareAuto, a high-performance computer with a robust graphics card is essential for smooth operation.
 
-## PC Configuration
+## 🖥️ PC Configuration
 
-To run the Poly_Suite framework efficiently, your PC should meet the following specifications:
+For optimal performance, ensure your PC meets the following specifications:
 
-- **CPU:** At least 8-core
+- **CPU:** Minimum 8-core
 - **GPU:** Nvidia GTX 1080 (8GB memory) or higher
 - **OS:** Ubuntu 20.04 64-bit
 
-## Prerequisites
+## 🛠️ Prerequisites
+
+Before you begin, ensure you have:
 
 - **Ubuntu**
 - **Python 3.8**
 
-Refer to the document directory for detailed installation instructions and the user guide. For optimal performance, follow the step-by-step documentation.
+Refer to the document directory for detailed installation instructions and the user guide. For best results, follow the step-by-step documentation.
 
 [![PolyVerif](https://img.shields.io/badge/PolyVerif-blue?style=for-the-badge)](https://www.avvc.net/)
 
-## Publications
+## 📚 Publications
+
+Explore these related publications:
 
 - [PolyVerif: An Open-Source Environment for Autonomous Vehicle Validation and Verification Research Acceleration](https://ieeexplore.ieee.org/document/10075634)
 - [PolyFlows: Modular Test Framework Design for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10607079)
@@ -29,16 +33,20 @@ Refer to the document directory for detailed installation instructions and the u
 
 ![PolyVerif](https://drive.google.com/uc?export=view&id=1tTEotG_E1Kpgxs7zuP5BslOgRJ57vTWV)
 
-## Participant Registration Statistics
+## 📊 Participant Registration Statistics
 
-<div align="left">
+Below are the statistics for participant registrations:
+
+<div align="center">
     <img src="https://drive.google.com/uc?export=view&id=1_yhwyqi12Ofxg7x1PLvlUIVT7-5w5xmZ" alt="Chart 1" width="650" height="400"/>
     <img src="https://drive.google.com/uc?export=view&id=1WL6syz6dyGdTf_EEgOMimyXk5s08z6kc" alt="Chart 2" width="350" height="400"/>
 </div>
 
-## Registration Highlights
+## 🌟 Registration Highlights
 
-<div align="left">
+Here are some highlights of our registration:
+
+<div align="center">
     <img src="https://drive.google.com/uc?export=view&id=1ewfnfsn_HXmQ_z19nxY9O4jSNtfeig5H" alt="Company 1" width="70" height="70"/>
     <img src="https://drive.google.com/uc?export=view&id=1hkIC43rOhDV-PkNybJQdZJeVFdNktKAz" alt="Company 2" width="70" height="70"/>
     <img src="https://drive.google.com/uc?export=view&id=15kjaxm-TIAh4pUMz7c4o-iGPEnP_VgaG" alt="Company 3" width="70" height="70"/>
